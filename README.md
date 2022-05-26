@@ -7,3 +7,5 @@ curated total scores.
 
 We complete the rest of the analysis on Stata and the project is currently a working paper about to be published in some of the top economic journal.
 My contribution to the project was the web scraping, fuzzy matching, data analysis and some of the Economic regression code as well.
+
+I worked on this project with my economics professor, Dr. Bheemeshwar Reddy
